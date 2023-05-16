@@ -1095,6 +1095,12 @@ textarea:focus {
   padding: 1rem 5rem;
 }
 
+.glazing_slider,
+.decoration_slider {
+    display: flex;
+    justify-content: space-between;
+}
+
 /*Media*/
 @media (max-width: 1400px) {
   .main {
